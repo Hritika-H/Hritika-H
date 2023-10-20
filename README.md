@@ -1,7 +1,7 @@
 ## 👋 Hey! Nice to see you.
 
 Welcome to my page!
-I'm Hritika, a Frontend developer 💻✨
+I'm Hritika, a Web developer 💻✨
 
 ### 🔨 Languages and Tools:
 ![image](https://github.com/Hritika-H/Hritika-H/assets/32535755/0b628400-0554-4a2b-9747-e2110d3d05ba)
